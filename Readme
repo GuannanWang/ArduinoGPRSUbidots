@@ -1,0 +1,6 @@
+ArduinoGPRSUbidots
+By Guannan Wang 2016-05-09
+
+Basic sketch for Arduino UNO -- GRPS sheild SIM900 --Tipping bucket, DHT22
+The class diagram can be referred to 
+https://www.lucidchart.com/documents/edit/cb598a2c-8172-452a-b29b-f1a112e3a5c7
